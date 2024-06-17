@@ -1,0 +1,14 @@
+{
+	"server":{
+		"port": 8081
+	},
+	"capture":{
+		"width": 300,
+		"height": 0,
+		"max_count": 1024,
+		"min": 5,
+		"max": 50,
+		"headless": false,
+		"executable_path": ""
+	}
+}
